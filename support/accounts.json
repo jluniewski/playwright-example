@@ -1,0 +1,10 @@
+{
+    "EdgarAccount": {
+        "name": "O'Hara - Labadie Bank"
+    },
+    "TestBankAccount": {
+        "name": "Test Bank Account",
+        "routingNumber": "021000021",
+        "accountNumber": "1234567890"
+    }
+}

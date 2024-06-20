@@ -1,0 +1,70 @@
+{
+	"everyone": {
+		"to": "Arely Kertzmann",
+		"from": "Kaylin Homenick",
+		"amount": "-$80.31",
+		"likes": 0,
+		"comments": {}
+	},
+	"everyoneComment": {
+		"to": "Ibrahim Dickens",
+		"from": "Edgar Johns",
+		"amount": "-$255.22",
+		"likes": 0,
+		"comments": {
+			"comm_1": {
+				"text": "qui explicabo voluptatum"
+			}
+		}
+	},
+	"friends": {
+		"to": "Arely Kertzmann",
+		"from": "Kaylin Homenick",
+		"amount": "-$337.92",
+		"likes": 1,
+		"comments": {}
+	},
+	"personal": {
+		"to": "Ibrahim Dickens",
+		"from": "Edgar Johns",
+		"amount": "-$363.14",
+		"likes": 0,
+		"comments": {}
+	},
+	"newComment": {
+		"comments": {
+			"comm_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sagittis suscipit elit sit amet sollicitudin."
+		}
+	},
+	"newTransactionRequest": {
+		"to": "Arely Kertzmann",
+		"from":"Edgar Johns",
+		"amount": "$224.00",
+		"note": "Test note for Request transaction"
+	},
+	"newTransactionPay": {
+		"to": "Ibrahim Dickens",
+		"from": "Edgar Johns",
+		"amount": "$555.00",
+		"note": "Test note for Pay transaction"
+	},
+	"newTransactionMultiple": {
+		"to": "Kaylin Homenick",
+		"from": "Edgar Johns",
+		"amount": "$771.00",
+		"note": "Test note for Multiple transactions"
+	},
+	"newTransactionMultiple2": {
+		"to": "Kaylin Homenick",
+		"from": "Edgar Johns",
+		"amount": "$99.00",
+		"note": "Another note for Multiple transactions"
+	},
+	"accountBalance": {
+		"to": "Kaylin Homenick",
+		"from": "Edgar Johns",
+		"amount": "$100",
+		"note": "Account Balance check Transaction",
+		"balanceAfter": "$1,581.37"
+	}
+}

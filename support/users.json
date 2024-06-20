@@ -1,0 +1,73 @@
+
+{
+    "userEdgar": {
+        "username": "Katharina_Bernier",
+        "password": "s3cret",
+        "userId": "t45AiwidW",
+        "name": "Edgar",
+        "lastname": "Johns",
+        "email": "Norene39@yahoo.com",
+        "phone": "625-316-9882",
+        "balance": 1681.37,
+        "avatar": "https://cypress-realworld-app-svgs.s3.amazonaws.com/t45AiwidW.svg"
+    },
+    "userEdgarEdit": {
+        "name": "John",
+        "lastname": "Doe",
+        "email": "John.Doe@google.com",
+        "phone": "551-111-7777"
+    },
+    "userArely": {
+        "username": "Tavares_Barrows",
+        "password": "s3cret",
+        "userId": "qywYp6hS0U",
+        "name": "Arely",
+        "lastname": "Kertzmann",
+        "email": "Aniya_Powlowski36@hotmail.com",
+        "phone": "537-041-4355",
+        "balance": 1018.05,
+        "avatar": "https://cypress-realworld-app-svgs.s3.amazonaws.com/qywYp6hS0U.svg"
+    },
+    "userKaylin": {
+        "username": "Allie2",
+        "password": "s3cret",
+        "userId": "bDjUb4ir5O",
+        "name": "Kaylin",
+        "lastname": "Homenick",
+        "email": "Rebeca35@yahoo.com",
+        "phone": "072-208-4283",
+        "balance": 1648.67,
+        "avatar": "https://cypress-realworld-app-svgs.s3.amazonaws.com/bDjUb4ir5O.svg"
+    },
+    "userIbrahim": {
+        "username": "Giovanna74",
+        "password": "s3cret",
+        "userId": "24VniajY1y",
+        "name": "Ibrahim",
+        "lastname": "Dickens",
+        "email": "Pearl56@gmail.com",
+        "phone": "974-916-8746",
+        "balance": 1457.79,
+        "avatar": "https://cypress-realworld-app-svgs.s3.amazonaws.com/24VniajY1y.svg"
+    },
+    "userDevon": {
+        "username": "Jessyca.Kuhic",
+        "password": "s3cret",
+        "userId": "tsHF6_D5oQ",
+        "name": "Devon",
+        "lastname": "Becker",
+        "email": "Jordy37@yahoo.com",
+        "phone": "277-189-3402",
+        "balance": 753.69,
+        "avatar": "https://cypress-realworld-app-svgs.s3.amazonaws.com/tsHF6_D5oQ.svg"
+    },
+    "newUser": {
+        "username": "newUser",
+        "password": "s3cret",
+        "name": "John",
+        "lastname": "Doe",
+        "email": "newUser@test.new",
+        "phone": "776-142-4511"
+    }
+
+}
